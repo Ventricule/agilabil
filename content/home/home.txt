@@ -10,7 +10,7 @@ Text:
 
 <div class="colophon up" markdown="1">
 
-Pour faire du livre une expérience dans la continuité d'Agilabil, il a été mis en page avec des outils libres, collaboratifs et open-source. Le contenu a été rédigé sur classeur.io et mis en forme en html grâce à l'outil html2print du collectif Open Source Publishing. L'ensemble de cette édition, le contenu comme la mise en page, est disponible librement sous forme de fichiers html, css, javascript et markdown sur github.com/Ventricule/agilabil.html2print.
+Pour faire du livre une expérience dans la continuité d'Agilabil, il a été mis en page avec des outils libres, collaboratifs et open-source. Le contenu a été rédigé sur classeur.io et mis en forme en html grâce à l'outil html2print du collectif Open Source Publishing. L'ensemble de cette édition, le contenu comme la mise en page, est disponible librement sous forme de fichiers html, css, javascript et markdown sur github.com/Ventricule/agilabil.
 
 </div>
 
