@@ -1,0 +1,58 @@
+// main: main.less
+
+/* the geometry of the page */
+@page-width: 160mm;
+@page-height: 220mm;
+
+/* the size of the crop marks*/
+@crop-size: 4mm;
+
+/* the size of bleed */
+@bleed: 4mm;
+
+// FIXME: make a case for single page layouts
+@page-margin-inside: 15mm;
+@page-margin-outside: 15mm;
+@page-margin-top: 8mm;
+@page-margin-bottom: 8mm;
+
+// Header variables
+@header-height: 0mm;
+@header-text: '';
+@header-text-left-side: "attrape.ouvre.saute.regarde.";
+@header-text-right-side: "Agilabil";
+// Footer variables
+@footer-height: 8mm;
+@footer-text: counter(page-counter);
+
+// Text settings
+@font-size:10pt;
+@line-height: 12pt;
+@margin-normal: @line-height;
+@margin-small: @line-height / 3;
+@margin-big: @line-height * 1.5;
+
+// Columns
+@column-gap: @line-height * 1.5;
+
+/* -----  Font Definitions  --------------------------------------------- */
+@font-face {
+  font-family: 'CMUvariable';
+  src: url(/assets/fonts/cmunvi.woff) format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Whois';
+  src: url(/assets/fonts/whois-mono.woff) format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Futura Renner';
+  src: url(/assets/fonts/FuturaRenner-Regular.woff) format("woff");
+  font-weight: normal;
+  font-style: normal;
+}

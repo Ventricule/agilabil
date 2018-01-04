@@ -28,3 +28,21 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('debug',true);
+
+c::set('markdown.extra', true);
+
+// config/config.php
+c::set([
+    'smartypants' => true,
+    'typography' => true,
+    'typography.style.punctuation.hanging' => false,
+    'typography.style.quotes.initial' => false,
+    'typography.hyphenation' => false,
+]);
+
+// languages/fr.php
+l::set('typography.punctuation.spacing.french', true);
+l::set('typography.quotes.primary', 'doubleGuillemetsFrench');
+l::set('typography.quotes.secondary', 'doubleCurled');
