@@ -20,14 +20,15 @@ Un livre conçu par Emma Tricard et mis en page par Pierre Tandille.
 
 Avec la participation de Cécile Bally, Bérangère Baucher, Alix Chouiha, Auguste Djagouri, Adèle Fouchier, Juliette Fournis, Adèle Godefroy, Stéphanie Grenier, Éva Guerda, Danièle Leclair, Hyacinthe Lesecq, Dorothée Lintner, Maud Pérez-Simon, Maiwenn Raoul, Margaux Ribeaucourt, Sonia Samimi, Myriam Suchet, Pierre Tandille, Emma Tricard et Samuel Tronçon
 
-Avec le soutien de L'Université de Paris Sorbonne-Nouvelle, du dispositif ....
+Avec le soutien de L'Université Sorbonne Paris Cité
+et des Projets d'Investissement d'Avenir
 
 Photographies : Adèle Godefroy
 
 Conseils avisés et relecture : Myriam Suchet et Maud Pérez-Simon
 
 Typographies : Archivo Narrow, Futura Renner, CMU variable et Whois Mono
-Toutes les typographies utilisés sont sous licence libre (OFL)
+Toutes les typographies utilisées sont sous licence libre (OFL)
 
 Impression : CCI Marseille, janvier 2018
 
@@ -136,7 +137,7 @@ Amorcée par un noyau initial composée de collègues et d’étudiant.e.s membr
 
 Les étudiant.es qui ont répondu à l’appel mettent en lumière leurs difficultés liées à l’apprentissage et les solutions qu’ils ont inventées. Ils et elles expriment leurs intérêts quant à l’expérience Agilabil, partageant une même curiosité pour les diverses formes de pédagogies.
 
-Fragments de textes provenant de l’appel à candidature ou des mails échangés lors de sa rédaction suivis des réponses formulées par les étudiants :
+Fragments de textes provenant de l’appel à candidature ou des mails échangés lors de sa rédaction suivis des réponses formulées par les étudiant.e.s :
 
 <div class="appel" markdown="1">
 
@@ -156,7 +157,7 @@ Avec l’Agilabil nous voulons formuler les problèmes pédagogiques et les tran
 
 <div class="appel" markdown="1">
 
-Nous souhaitons associer la pédagogie à la recherche, en combinant leurs potentiels respectifs de créativité. Que vous inspire la citation suivante :
+Nous souhaitons associer la pédagogie à la recherche, en combinant leurs potentiels respectifs de créativité. Que vous inspire la citation suivante ?
 
 </div>
 
@@ -366,7 +367,7 @@ Pour préparer cette résidence de recherche-action-création, nous avons imagin
 
 Nous quittons la capitale à bord de nos voitures, en petits groupes. Très rapidement nous mettons les pieds dans le plat avec la première étape de l’atelier mobile d’Adèle G. (pour plus de détails sur le fonctionnement de cet atelier voir page [](#l-image-en)). Il est tôt et il fait froid, mais aussi tellement beau ! L’endroit a des airs de colonie de vacances : un lieu magnifique, des chambres qui sont hospitalières, le café aussi.
 
-À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmenés jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé l'atelier *One to one* pour (re)prendre contact, nous guident de station en station.
+À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmené.e.s jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé l'atelier *One to one* pour (re)prendre contact, nous guident de station en station.
 
 #### Ateliers
 
@@ -628,7 +629,7 @@ Le jeu va devenir un objet de la *mallette pédagogique* puisqu’il permet bien
 
 <a id="A6">A6</a>
 
-(cartouche: présentation titre: Département de danse et de performance de l’université d’art de Berlin texte: par Cécile et Emma — www.udk-berlin.de/startseite)
+(cartouche: présentation titre: Département de danse et de performance <br> de l’université d’art de Berlin texte: par Cécile et Emma — www.udk-berlin.de/startseite)
 
 Ce département a ouvert en 2010 à la suite d’une volonté politique et de la scène indépendante des danseurs berlinois. Les nécessités administratives, les désirs artistiques et éducatifs ont été placés au même niveau pour encourager des choix concertés.
 
@@ -1592,8 +1593,7 @@ Duneton Claude, Pagliano Jean-Pierre,*L’Anti-Manuel de français, à l’usage
 
 Edmond Marc, *L’école de Palo Alto, Un nouveau regard sur les relations humaines*, Retz, 2011.
 
-Filliou Robert et le lecteur, s’il le désire ; avec la participation de John Cage, Benjamin Patterson, Allen Kaprow (Allan Kaprow), Marcelle Filliou, Vera, Bjössi, Karl Rot (Roth), Dorothy Lannone, Dieter Roth,
-Joseph Beuys, *Enseigner et apprendre, arts vivants*, traduction de l’anglais par Juliane Régler et Christine Fondecave, Paris – Bruxelles, Archives Lebeer Hossmann, 1998.
+Filliou Robert et le lecteur, s’il le désire ; avec la participation de John Cage, Benjamin Patterson, Allen Kaprow (Allan Kaprow), Marcelle Filliou, Vera, Bjössi, Karl Rot (Roth), Dorothy Lannone, Dieter Roth, Joseph Beuys, *Enseigner et apprendre, arts vivants*, traduction de l’anglais par Juliane Régler et Christine Fondecave, Paris – Bruxelles, Archives Lebeer Hossmann, 1998.
 
 Freire Paulo, *Pédagogie de l’autonomie*, [traduit et commenté par Jean-Claude Régnier], Toulouse, Érès, 2013.
 
