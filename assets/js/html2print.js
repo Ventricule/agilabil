@@ -1,6 +1,6 @@
 // html2print needs CSS regions
 
-var nb_page = 65;
+var nb_page = 64;
 
 $(function() {
 
@@ -79,18 +79,6 @@ function afterLayout(){
 					chapter = article.children().last().attr('data-chapter');
 			page.find('.footer .chapter').html(chapter);
 		});
-
-    // Specific pages classes
-		/*
-    $('.paper:nth-child(n+21):nth-child(-n+35)').addClass('atelier');
-		$('.paper:nth-child(n+42):nth-child(-n+54)').addClass('atelier');
-
-		$('.paper:nth-child(13)').addClass('full-page');
-		$('.paper:nth-child(16)').addClass('full-page');
-
-		$('.paper:nth-child(17)').addClass('chapitre');
-		$('.paper:nth-child(39)').addClass('chapitre');
-    */
 
 }
 

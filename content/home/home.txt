@@ -10,7 +10,7 @@ Text:
 
 <div class="colophon up" markdown="1">
 
-Pour faire du livre une expérience dans la continuité d'Agilabil, il a été mis en page avec des outils libres, collaboratifs et open-source. Le contenu a été rédigé sur classeur.io et mis en forme en html grâce à l'outil html2print du collectif Open Source Publishing. L'ensemble de cette édition, le contenu comme la mise en page, est disponible librement sous forme de fichiers html, css, javascript et markdown sur github.com/Ventricule/agilabil.
+Pour faire du livre une expérience dans la continuité d'Agilabil cette édition a été conçu avec des outils libres, collaboratifs et open-source. Le contenu a été rédigé sur classeur.io et mis en forme en html grâce à l'outil html2print du collectif Open Source Publishing. L'ensemble de cette édition, le contenu comme la mise en page, est disponible librement sous forme de fichiers html, css, javascript et markdown sur github.com/Ventricule/agilabil.
 
 </div>
 
@@ -20,8 +20,11 @@ Un livre conçu par Emma Tricard et mis en page par Pierre Tandille.
 
 Avec la participation de Cécile Bally, Bérangère Baucher, Alix Chouiha, Auguste Djagouri, Adèle Fouchier, Juliette Fournis, Adèle Godefroy, Stéphanie Grenier, Éva Guerda, Danièle Leclair, Hyacinthe Lesecq, Dorothée Lintner, Maud Pérez-Simon, Maiwenn Raoul, Margaux Ribeaucourt, Sonia Samimi, Myriam Suchet, Pierre Tandille, Emma Tricard et Samuel Tronçon
 
-Avec le soutien de L'Université Sorbonne Paris Cité
-et des Projets d'Investissement d'Avenir
+Ce projet a été réalisé dans le cadre du Projet Investissement d'Avenir 2015-2016 de l'Université Sorbonne Paris Cité
+
+Remerciements particuliers à Lucy Veisblat et à Dalia Roy pour leur disponibilité et leur aide dans le montage financier du projet
+
+Partenaire : Agence Résurgences
 
 Photographies : Adèle Godefroy
 
@@ -281,7 +284,9 @@ Pour découvrir le fonctionnement singulier du département de danse et de perfo
  <span>12 octobre au 7 décembre 2015</span> <span>Première phase</span>
 </div>
 
-## Le pavé dans la mare
+## Le pavé dans la mare {.hidden}
+
+&nbsp;
 
 ![le pavé](assets/images/lepave.jpg)
 
@@ -369,7 +374,7 @@ Nous quittons la capitale à bord de nos voitures, en petits groupes. Très rapi
 
 À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmené.e.s jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé l'atelier *One to one* pour (re)prendre contact, nous guident de station en station.
 
-#### Ateliers
+#### Ateliers {.hidden}
 
 ***
 
@@ -847,7 +852,9 @@ Le dernier temps de la réunion est consacré à la *mallette* et aux objets à 
  <span>du 19 janvier 2016 à juillet 2016</span> <span>Seconde phase</span>
 </div>
 
-## À bras le corps
+## À bras le corps {.hidden}
+
+&nbsp;
 
 ![à bras le corps](assets/images/abras.jpg)
 
@@ -886,7 +893,7 @@ Pour l’atelier de Margaux, chacun.e d’entre nous devait apprendre une liste 
 Pour l’atelier d’Auguste, nous devions partager des objets pédagogiques par groupes de quatre : chaque personne devait concevoir une ébauche de projet pédagogique et la transmettre à un autre membre de son groupe, en charge de la faire évoluer et de trouver les moyens de la réaliser.
 
 
-#### Ateliers
+#### Ateliers {.hidden}
 
 ***
 
@@ -1347,7 +1354,9 @@ Du coup, plus besoin pour la *mallette* d’être un espace d’archivage de l�
  <span>de juillet à décembre 2016</span> <span>Troisième phase</span>
 </div>
 
-## Sur sa lancée
+## Sur sa lancée {.hidden}
+
+&nbsp;
 
 ![sur sa lancée](assets/images/sursa.jpg)
 
@@ -1657,7 +1666,7 @@ Vercauteren David, *Micropolitiques des groupes. Pour une écologie des pratique
 
 ***
 
-## Photos souvenirs
+## Photos souvenirs {.hidden}
 
 <a id="A3">A3</a>
 
@@ -1717,6 +1726,8 @@ Vercauteren David, *Micropolitiques des groupes. Pour une écologie des pratique
 
 (columns…)
 
+<a id="B6">B6</a>
+
 ![malette-fluxus](assets/images/fluxus.jpg)
 
 ++++
@@ -1725,12 +1736,10 @@ Vercauteren David, *Micropolitiques des groupes. Pour une écologie des pratique
 
 (…columns)
 
-<a id="B6">B6</a>
-
 ![photo cahier dessins *mallette* et autre *mallettes*](assets/images/Cahier4.jpg)
 
 (chemin: bleu) Pour avoir un aperçu des objets de la mallette
-et de leur possible activation,passez directement page [B9](#B9) (chemin: fin)
+et de leur possible activation, passez directement page [B9](#B9) (chemin: fin)
 
 <div class="caption" markdown="1">
 
